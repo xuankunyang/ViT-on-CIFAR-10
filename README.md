@@ -186,7 +186,8 @@ Scripts support `--local_rank` for distributed; keep `--local_rank -1` (default)
 
 ## References and Acknowledgments
 
-Co-authors: Xuankun Yang (GitHub: @xuankunyang) and Junjie Yu (GitHub: @JunjieYu28). Thanks for collaborative work on model implementation, training, and visualization.
+Co-authors: Xuankun Yang (GitHub: [xuankunyang](https://github.com/xuankunyang)) and Junjie Yu (GitHub: [JunjieYu28](https://github.com/JunjieYu28)). Thanks for collaborative work on model implementation, training, and visualization.
+
 
 ViT original ideas from Google's Vision Transformer paper and open-source implementation (some configs and naming styles follow theirs).
 
