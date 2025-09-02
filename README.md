@@ -9,14 +9,15 @@ This project is a complete implementation of Vision Transformer (ViT) applied to
 
 ## Contributors
 
-- Junjie Yu (GitHub: JunjieYu28[https://github.com/JunjieYu28]) - Primarily responsible for data augmentation and parameter tuning.
-- Xunakun Yang (GitHub: xuankunyang[https://github.com/xuankunyang]) - Primarily responsible for model architecture and variants, various training methods, and parameter tuning.
+- Junjie Yu (GitHub: [JunjieYu28](https://github.com/JunjieYu28)) - Primarily responsible for data augmentation and parameter tuning.
+- Xunakun Yang (GitHub: [xuankunyang](https://github.com/xuankunyang)) - Primarily responsible for model architecture and variants, various training methods, and parameter tuning.
 
 ## Project Report and Presentation
 
-- Report PDF: ViT.pdf
+- Report PDF: [ViT.pdf](https://github.com/xuankunyang/ViT-on-CIFAR-10/blob/main/ViT.pdf)
 
-- Presentation PPT: ViT.pptx
+- Presentation PPT: [ViT.pptx](https://github.com/xuankunyang/ViT-on-CIFAR-10/blob/main/ViT.pptx)
+
 
 ## Directory Structure Overview
 
